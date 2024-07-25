@@ -1,1 +1,1 @@
-# breastcancerdetection
+# image classifier
